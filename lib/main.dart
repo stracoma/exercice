@@ -40,7 +40,7 @@ class _HomePageState extends State<HomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Bienvenue dans mon application !',
+              'Bienvenue dans\nmon application !',
               style: Messtyles.monTextStyle(),
             ),
             SizedBox(height: 20),
